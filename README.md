@@ -8,7 +8,7 @@ Control the bird with **SPACE** to jump, avoid pipes, and try to get the highest
 
 ## 🎮 Features
 
-- Animated bird (with optional flapping images)  
+- Added sprites for bird and pipe  
 - Moving top and bottom pipes  
 - Score display  
 - Game Over screen with restart (press **R**)  
